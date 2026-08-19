@@ -1,1 +1,2 @@
 Mensaje inicial de la plantilla
+Saludo desde la rama feature/saludo
