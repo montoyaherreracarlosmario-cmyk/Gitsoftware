@@ -1,3 +1,4 @@
 Mensaje escrito directamente en main
+Mensaje escrito en la rama feature/conflicto
 Saludo desde la rama feature/saludo
 Despedida desde la rama feature/despedida
